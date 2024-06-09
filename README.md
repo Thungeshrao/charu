@@ -1,2 +1,2 @@
 # charu nanjangud
-mysuru  karnataka
+mysuru  karnataka err
